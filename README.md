@@ -53,5 +53,5 @@ What is the likelihood that an individual will develop cardiovascular disease or
 * [Link to notebook 2]() - Model Building & Evaluation TBD
 * [Link to notebook 3]() - Feature Importance & Interpretability TBD
 
-![Alt text](data/img1.jpeg)
-![Alt text](data/img2.jpeg)
+![Alt text](images/img1.jpeg)
+![Alt text](images/img2.jpeg)
