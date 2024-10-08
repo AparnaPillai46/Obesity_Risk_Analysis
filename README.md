@@ -49,7 +49,7 @@ What is the likelihood that an individual will develop cardiovascular disease or
 
 #### Outline of project
 
-* [Link to notebook 1]() - Data Exploration & Preprocessing
+* [Link to notebook 1](https://github.com/AparnaPillai46/Obesity_Risk_Analysis/blob/main/ObesityRiskAnalysis_Data%20Exploration.ipynb) - Data Exploration & Preprocessing
 * [Link to notebook 2]() - Model Building & Evaluation TBD
 * [Link to notebook 3]() - Feature Importance & Interpretability TBD
 
