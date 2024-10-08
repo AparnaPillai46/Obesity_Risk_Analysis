@@ -50,8 +50,23 @@ What is the likelihood that an individual will develop cardiovascular disease or
 #### Outline of project
 
 * [Link to notebook 1](https://github.com/AparnaPillai46/Obesity_Risk_Analysis/blob/main/ObesityRiskAnalysis_Data%20Exploration.ipynb) - Data Exploration & Preprocessing
-* [Link to notebook 2]() - Model Building & Evaluation TBD
-* [Link to notebook 3]() - Feature Importance & Interpretability TBD
+* [Link to notebook 2](https://github.com/AparnaPillai46/Obesity_Risk_Analysis/blob/main/ObesityRiskAnalysis.ipynb) - Model Building & Evaluation & Summary
 
-![Alt text](images/img1.jpeg)
-![Alt text](images/img2.jpeg)
+![Alt text](images/img3.jpeg)
+
+#### Key Takeaways:
+Influence of Family History: Family history is identified as the most significant predictor of obesity. This underscores the importance of genetic and environmental factors that may predispose individuals to higher obesity risk.
+
+Impact of Age: Age is the second most important predictor. This suggests that as individuals age, their risk for obesity may change, potentially due to metabolic shifts and lifestyle changes over time.
+
+Interconnectedness of Factors: Both family history and age likely influence lifestyle factors, including eating habits and physical activity levels. Understanding this relationship can enhance the model’s predictive power.
+
+Eating Habits as Predictors: Consumption patterns, such as the frequency of eating between meals and the intake of vegetables, are significant predictors of obesity. These factors highlight the role of dietary choices in obesity risk.
+
+Physical Attributes vs. Behavioral Factors: The analysis indicates that behavioral factors, particularly family history and eating habits, serve as stronger predictors of obesity compared to physical attributes. This points to the need for a holistic approach in obesity prevention strategies.
+
+Recommendations for Further Exploration: Detailed Feature Exploration: Investigate the possibility of decomposing the factors of family history and age into more specific, actionable features. The current analysis suggests that existing data may not fully capture the nuances of these predictors, indicating opportunities for deeper insights.
+
+Tailored Health and Nutritional Interventions: Develop targeted health and nutritional programs that leverage the predictive factors identified in this analysis. These interventions should aim to mitigate obesity risk by addressing the key lifestyle influences highlighted by the model.
+
+Broaden the Scope of Analysis: Consider including additional variables related to socio-economic status, education, and access to healthcare in future analyses. This broader perspective may yield further insights into the complex interplay of factors contributing to obesity.
