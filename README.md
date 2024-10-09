@@ -39,13 +39,12 @@ What is the likelihood that an individual will develop cardiovascular disease or
     * Age distribution is right-skewed (more younger individuals)
     * Target variable transformed into binary (obese/non-obese) with a 51.5% to 48.5% split
 
-#### Next Steps
+#### Steps
 
 * Explore additional machine learning models (Random Forest, SVM, etc.)
 * Hyperparameter tuning
 * Comprehensive model evaluation
 * Feature importance analysis
-* Model interpretability techniques
 
 #### Outline of project
 
